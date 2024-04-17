@@ -24,8 +24,13 @@ acblack-elcomp: https://metrics.lecoq.io/insights?user=aceaspades-elcomp
 - 🤔 I’m looking for help with improved CSS skills
 - 👯 I’m looking to collaborate on [VanillaTweaksBedrock](https://github.com/PiSaucer/VanillaTweaksBedrock) with the CSS
 - 🔭 I’m currently working on [VanillaTweaksBedrock](https://github.com/PiSaucer/VanillaTweaksBedrock)
+
+
+[![GitHub metrics](github-metrics.svg)](https://github.com/amunrarara?tab=repositories)
 - -->
 
 # amunrarara
 
-[![GitHub metrics](github-metrics.svg)](https://github.com/amunrarara?tab=repositories)
+
+![Metrics](https://metrics.lecoq.io/username)
+
