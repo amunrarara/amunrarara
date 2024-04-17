@@ -23,13 +23,13 @@ acblack-elcomp: https://metrics.lecoq.io/insights?user=aceaspades-elcomp
 
 # amunrarara 
 ### main account
-![Metrics](https://metrics.lecoq.io/insights/amunrarara)
+https://metrics.lecoq.io/insights/amunrarara
 
 # aceaspades-worldspark 
 ### Worldspark Studios, 2022 to 2023
-![Metrics](https://metrics.lecoq.io/insights/aceaspades-worldspark)
+https://metrics.lecoq.io/insights/aceaspades-worldspark
 
 # acblack-elcomp 
 ### The Estée Lauder Companies, 2023 to present
-![Metrics](https://metrics.lecoq.io/insights/acblack-elcomp)
+https://metrics.lecoq.io/insights/acblack-elcomp
 
