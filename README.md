@@ -18,26 +18,18 @@ acblack-elcomp: https://metrics.lecoq.io/insights?user=aceaspades-elcomp
 -->
 
 <!--
-- 🔭 I’m currently working on [Mountain Top's Guide](https://newcaledoniadevteam.github.io/MountainsGuide/) and [boredhtml](https://github.com/PiSaucer/boredhtml)
-- 😄 Pronouns: he/him
-- 🌱 I’m currently learning Java, Javascript, and C++
-- 🤔 I’m looking for help with improved CSS skills
-- 👯 I’m looking to collaborate on [VanillaTweaksBedrock](https://github.com/PiSaucer/VanillaTweaksBedrock) with the CSS
-- 🔭 I’m currently working on [VanillaTweaksBedrock](https://github.com/PiSaucer/VanillaTweaksBedrock)
-
-
 [![GitHub metrics](github-metrics.svg)](https://github.com/amunrarara?tab=repositories)
 - -->
 
 # amunrarara 
 ### main account
-![Metrics](https://metrics.lecoq.io/amunrarara)
+![Metrics](https://metrics.lecoq.io/insights?user=amunrarara)
 
 # aceaspades-worldspark 
 ### Worldspark Studios, 2022 to 2023
-![Metrics](https://metrics.lecoq.io/aceaspades-worldspark)
+![Metrics](https://metrics.lecoq.io/insights?user=aceaspades-worldspark)
 
 # acblack-elcomp 
 ### The Estée Lauder Companies, 2023 to present
-![Metrics](https://metrics.lecoq.io/amunrarara)
+![Metrics](https://metrics.lecoq.io/insights?user=acblack-elcomp)
 
